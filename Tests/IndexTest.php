@@ -50,15 +50,15 @@ $arr = [
         'price' => 15000,
         'quantity' => 15,
       ],[
-      'title' => 'Stels Focus',
+      'title' => 'Stels',
       'price' => 11000,
       'quantity' => 5,
       ],[
-      'title' => 'STARK Madness',
+      'title' => 'Stark',
       'price' => 25000,
       'quantity' => 4,
       ],[
-      'title' => 'FORWARD AZURE',
+      'title' => 'FORWARD ',
       'price' => 8000,
       'quantity' => 8,
     ]
